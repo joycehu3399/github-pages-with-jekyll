@@ -1,2 +1,4 @@
-Title: My First Blog
-Theme: minima
+---
+title: "Learning GitHub Day 1"
+date: 2021-07-09
+---
